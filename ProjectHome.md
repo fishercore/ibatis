@@ -1,0 +1,1 @@
+This project has moved to:  https://code.google.com/p/mybatis
